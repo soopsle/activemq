@@ -1,6 +1,6 @@
 ActiveMQ，RabbitMQ，KAFKA，阿里MQ
 
-各种消息队列对比 
+各种消息队列对比 <br/>
 http://wenku.baidu.com/link?url=En_vwBUiK4-xjkF9gXij7nAbJWDPEDjEtm9CKKxS3mnARAe4DtIBckgtfAL_KAQSmAxh3_8gAXPZ7CO07Mysyc7XYQHU_dHmriCdq6b4RV3
 
 消息中间件的技术选型心得－RabbitMQ、ActiveMQ和ZeroMQ 
