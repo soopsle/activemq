@@ -1,4 +1,3 @@
-# activemq
 ActiveMQ，RabbitMQ，KAFKA，阿里MQ
 
 各种消息队列对比
