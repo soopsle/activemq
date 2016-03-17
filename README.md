@@ -23,3 +23,6 @@ http://wangchengyong.iteye.com/blog/2031037
 
 RPC，Webservice，RMI，JMS的区别 <br/>
 http://www.tuicool.com/articles/2qAzqq
+
+Webservice RPC风格 SOAP,REST风格 各之间的对比<br/>
+http://jayluns.iteye.com/blog/1980976
