@@ -26,3 +26,6 @@ http://www.tuicool.com/articles/2qAzqq
 
 Webservice RPC风格 SOAP,REST风格 各之间的对比<br/>
 http://jayluns.iteye.com/blog/1980976
+
+Nginx+tomcat进阶 -Java集群优化——dubbo+zookeeper构建高可用分布式集群<br/>
+http://www.fwqtg.net/%E7%BD%AE%E9%A1%B6-java%E9%9B%86%E7%BE%A4%E4%BC%98%E5%8C%96-dubbozookeeper%E6%9E%84%E5%BB%BA%E9%AB%98%E5%8F%AF%E7%94%A8%E5%88%86%E5%B8%83%E5%BC%8F%E9%9B%86%E7%BE%A4.html
