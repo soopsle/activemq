@@ -1,3 +1,8 @@
+APACHE 顶级项目:<br/>
+http://activemq.apache.org/<br/>
+http://kafka.apache.org/<br/>
+http://zookeeper.apache.org/
+
 ActiveMQ，RabbitMQ，KAFKA，阿里MQ
 
 各种消息队列对比 <br/>
