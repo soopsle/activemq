@@ -18,6 +18,9 @@ Kafka 对比 ActiveMQ <br/>
 http://www.open-open.com/lib/view/open1425522959525.html <br/>
 http://www.open-open.com/lib/view/open1433314737432.html
 
+Kafka深度解析<br/>
+http://blog.csdn.net/qqqq724/article/details/43228863/
+
 JMS - JMS​应​用​领​域 应用场景 <br/>
 http://itindex.net/detail/49721-jms-jms-%E5%BA%94%E7%94%A8
 
